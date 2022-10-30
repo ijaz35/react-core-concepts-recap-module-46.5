@@ -32,7 +32,21 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.blog {
+  background-color: beige;
+  padding: 20px;
+  border: 2px solid rgb(176, 153, 129);
+  border-radius: 20px;
+  margin: 10px;
+}
+
+.mobile {
+  background-color: darkkhaki;
+  padding: 20px;
 }
